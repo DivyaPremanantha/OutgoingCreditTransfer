@@ -27,5 +27,5 @@ To Run the project please follow these steps:
 
 ## Try Out
 
-1. Import the [postman collection] (https://elements.getpostman.com/redirect?entityId=899173-8ea5decb-c6c1-4051-bdeb-30f712de015a&entityType=collection)
+1. Import the [postman collection](https://elements.getpostman.com/redirect?entityId=899173-8ea5decb-c6c1-4051-bdeb-30f712de015a&entityType=collection)
 2. Invoke /PaymentInitiation POST call to test the complete flow with the inbuilt sequences. 
