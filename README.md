@@ -6,7 +6,9 @@ This repository contains the codebase for a Micro Integrator project designed to
 
 The BIAN OutgoingCreditTransfer user scenario addresses [briefly describe the scenario's significance]. This project aims to provide a solution for implementing this scenario.
 
-## Sequence Diagram![Alt text](<Sequence Diagram - OutgoingCreditTransfer.png>)
+## Sequence Diagram
+
+![Alt text](<Sequence Diagram - OutgoingCreditTransfer.png>)
 
 ## Getting Started
 
